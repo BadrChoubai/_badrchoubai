@@ -11,7 +11,7 @@ description: "Badr Choubai is a web developer living in Colorado, he is currentl
 
 I like writing code, sharing tables at coffee shops, reading books, meetups, and thinking. What I'm looking for is a role similar to that of  a trade apprenticeship. A role where I can be immediately valuable, even if it's me just writing  documentation. I want to contribute to projects that have tangible  value, and at a company that aims to do a public good.
 
-### Quicks `1s` and `0s`
+### Quick `1s` and `0s`
 
 - I write code in `vim` , PyCharm, and Visual Studio Code
 - I manage myself using [Notion.so](http://notion.so), [Self-Control](https://github.com/SelfControlApp/selfcontrol/), and ☕️

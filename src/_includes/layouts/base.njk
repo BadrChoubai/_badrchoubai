@@ -1,0 +1,22 @@
+<!doctype HTML>
+<html lang="{{ metadata.language or "en"}}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title or metadata.title }}</title>
+    <meta name="description" content="{{ description or metadata.description }}">
+    <meta name="googlebot" content="noindex">
+    {% set css %}
+    {% include "css/styles.css" %}
+    {% endset %}
+    <style>
+      {{css | cssmin | safe}}</style>
+  </head>
+  <body>
+    <main>
+      <div>
+        {{ content | safe }}
+      </div>
+    </main>
+  </body>
+</html>

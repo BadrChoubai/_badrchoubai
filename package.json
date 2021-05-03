@@ -1,0 +1,15 @@
+{
+  "name": "badrchoubai.dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "serve": "eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  },
+  "dependencies": {
+    "clean-css": "^5.1.2"
+  }
+}

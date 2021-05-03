@@ -8,11 +8,11 @@ main {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    padding: 5vw;
+    padding: 5vh;
 }
 
 body {
-    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    font-family: "Avenir", Helvetica, Arial, sans-serif;
     font-size: calc(10px + 0.33vw);
     margin: 0;
     padding: 0;

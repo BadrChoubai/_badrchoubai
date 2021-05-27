@@ -17,7 +17,7 @@ I like writing code, sharing tables at coffee shops, reading books, meetups, and
 - I manage myself using [Notion.so](http://notion.so), [Self-Control](https://github.com/SelfControlApp/selfcontrol/), and ☕️
 - I communicate best through in-person conversation, phone calls, and e-mail (in that order).
 - I think best using `.txt` and `.md` files, distractions are evil, and I go to great lengths to eliminate them!
-- I've learned most from: *[Skin in the Game](https://www.indiebound.org/book/9780425284643), [Atomic Habits](https://www.indiebound.org/book/9780735211292), [Thinking in Systems](https://www.indiebound.org/book/9781603580557), [Digital Minimalism](https://www.indiebound.org/book/9780525536512) and, [Man's Search for Meaning](https://www.indiebound.org/book/9780807014271)*
+- I've learned most from: *[Skin in the Game](https://www.indiebound.org/book/9780425284643), [Atomic Habits](https://www.indiebound.org/book/9780735211292), [Thinking in Systems](https://www.indiebound.org/book/9781603580557), [Digital Minimalism](https://www.indiebound.org/book/9780525536512)* and, *[Man's Search for Meaning](https://www.indiebound.org/book/9780807014271)*
 
 ### Contact Information
 

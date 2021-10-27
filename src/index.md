@@ -2,7 +2,6 @@
 layout: "layouts/base.njk"
 title: "Badr Choubai | Denver, CO"
 description: "Badr Choubai: Flâneur, Web Developer, Student"
-
 ---
 
 # Hi 👋🏻
